@@ -1,2 +1,1 @@
-import torch
-print(torch) 
+import numpy
